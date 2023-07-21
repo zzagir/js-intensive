@@ -1,0 +1,5 @@
+npm init
+yarn add -D webpack webpack-cli
+yarn add -d html-webpack-plugin mini-css-extract-plugin css-minimizer-webpack-plugin terser-webpack-plugin dotenv
+yarn add -D clean-webpack-plugin
+yarn add -D html-loader @babel/core @babel/preset-env babel-core babel-loader css-loader file-loader sass sass-loader style-loader dotenv
